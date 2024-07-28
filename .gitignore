@@ -1,0 +1,5 @@
+# Ambiente de desenvolvimento
+.venv
+.env
+venv
+env
